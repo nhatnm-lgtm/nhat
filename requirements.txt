@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+tensorflow; python_version < "3.13"
+vnstock>=3.5.1
+squarify
